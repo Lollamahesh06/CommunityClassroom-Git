@@ -1,0 +1,11 @@
+mahesh
+lolla
+000011111
+:q
+:Q
+:q
+:w
+:q
+:q
+:wq
+
